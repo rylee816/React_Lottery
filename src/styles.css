@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+html {
+  background-color: #d6e098;
+  background-image: url("https://www.transparenttextures.com/patterns/back-pattern.png");
+}
